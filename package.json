@@ -1,0 +1,19 @@
+{
+  "name": "metadata",
+  "version": "1.0.0",
+  "description": "Metadata Check Mircroservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metadata",
+    "cvs-health"
+  ],
+  "author": "nishant.arora",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
